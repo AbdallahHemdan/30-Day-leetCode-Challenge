@@ -31,3 +31,12 @@
 - [x] [Day 5. Best Time to Buy and Sell Stock II](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%201%20April%201st%E2%80%93April%207th/Day%205.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.cpp)
 - [x] [Day 6. Group Anagrams](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%201%20April%201st%E2%80%93April%207th/Day%206.%20Group%20Anagrams.cpp)
 - [x] [Day 7. Counting Elements](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%201%20April%201st%E2%80%93April%207th/Day%207.%20Counting%20Elements.cpp)
+
+
+
+## 🎉 Week-2
+
+![image](https://user-images.githubusercontent.com/40190772/78891821-85e84280-7a68-11ea-8611-7d4bc391ded7.png)
+
+- [x] [Day 8. Middle of the Linked List](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%208.%20Middle%20of%20the%20Linked%20List.cpp)
+- [x] [Day 9. Backspace String Compare](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%209.%20Backspace%20String%20Compare.cpp)
