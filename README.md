@@ -36,7 +36,9 @@
 
 ## 🎉 Week-2
 
-![image](https://user-images.githubusercontent.com/40190772/78891821-85e84280-7a68-11ea-8611-7d4bc391ded7.png)
+![image](https://user-images.githubusercontent.com/40190772/79032308-b71a5d00-7ba5-11ea-9913-b7f317068cfb.png)
+
 
 - [x] [Day 8. Middle of the Linked List](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%208.%20Middle%20of%20the%20Linked%20List.cpp)
 - [x] [Day 9. Backspace String Compare](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%209.%20Backspace%20String%20Compare.cpp)
+- [x] [Day 10. Min Stack](https://github.com/AbdallahHemdan/30-Day-leetCode-Challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%2010.%20Min%20Stack.cpp)
