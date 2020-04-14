@@ -36,7 +36,7 @@
 
 ## 🎉 Week-2
 
-![image](https://user-images.githubusercontent.com/40190772/79063257-c16d5180-7ca0-11ea-98d6-fd1815b6981b.png)
+![image](https://user-images.githubusercontent.com/40190772/79276708-c8ff4700-7ea8-11ea-8062-c07ad5317f3d.png)
 
 
 - [x] [Day 8. Middle of the Linked List](https://github.com/AbdallahHemdan/30-Day-leetCode-challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%208.%20Middle%20of%20the%20Linked%20List.cpp)
