@@ -44,3 +44,4 @@
 - [x] [Day 10. Min Stack](https://github.com/AbdallahHemdan/30-Day-leetCode-Challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%2010.%20Min%20Stack.cpp)
 - [x] [Day 11. Diameter of Binary Tree](https://github.com/AbdallahHemdan/30-Day-leetCode-Challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%2011.%20Diameter%20of%20Binary%20Tree.cpp)
 - [x] [Day 12. Last Stone Weight](https://github.com/AbdallahHemdan/30-Day-leetCode-Challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%2012.%20Last%20Stone%20Weight.cpp)
+- [x] [Day 13. Contiguous Array](https://github.com/AbdallahHemdan/30-Day-leetCode-Challenge/blob/master/Week%202:%20April%208th%E2%80%93April%2014th/Day%2013.%20Contiguous%20Array.cpp)
